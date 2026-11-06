@@ -1,0 +1,6 @@
+{
+  "name": "CardFlow",
+  "description": "Sleek offline-first credit card expense and statement tracker with utilization monitoring and spending analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
